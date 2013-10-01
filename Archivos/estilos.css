@@ -1,0 +1,120 @@
+/* CSS Document */
+body {
+  background: #000000;
+  font-family: "Times New Roman", Times, serif;
+  }
+
+#general {
+  /*background: #77FFE0;*/
+  background: url(fondo.jpg);
+  /*border-top:4px solid #0000CC;
+  border-bottom:4px solid #0000CC;
+  border-right:4px solid #0000CC;
+  border-left:4px solid #0000CC;*/
+  border-top:4px solid #000000;
+  border-bottom:4px solid #000000;
+  border-right:4px solid #000000;
+  border-left:4px solid #000000;
+  margin-left: 175px;
+  margin-right: 175px;
+  margin-top: 20px;
+  width: 900px;
+  height: 520px;
+  font-size: 100%;
+  color: BLACK;
+  }
+  
+#index {
+  margin-left: 200px;
+  margin-top: 200px;
+  line-height:30px;
+  }
+  
+.textbox {
+  float:right;
+  margin-right: 350px;
+  }
+  
+.textbox2 {
+  float:right;
+  margin-right: 263px;
+  }
+  
+#parteizq{
+  padding-left:5px;
+  width:230px;
+  height: 520px;
+  background: url(parteizq.jpg);
+  float:left;
+  /*border-right:4px solid #0000CC;*/
+  font-weight: bold;
+  line-height: 60px;
+  color: #999999;
+  }
+  
+#parteizq A:link { font-weight: bold; 
+         color: WHITE; 
+         text-decoration: underline;}
+#parteizq A:visited { font-weight: bold; 
+            color: #CCCCCC; 
+            text-decoration: underline;}
+            
+#parteizq A:hover { font-weight: bold;
+		  text-decoration: underline;
+		  font-size: 105%; 
+		  color: #0099FF}
+  
+#parteder{
+  width:660px;
+  float:right;
+  margin-top: 30px;
+  line-height: 25px;
+  }
+  
+#logo{
+  width:630px;
+  float:right;
+  margin-top:20px;
+  text-align:center;
+  }
+  
+#logoi{
+  width:870px;
+  float:right;
+  margin-top:30px;
+  text-align:center;
+  }
+  
+#tabla{
+  text-align: center;
+  }
+#tabla table {
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+  background: #FFFF66; 
+  color:BLACK;
+  border-width: medium;
+  border-color: BLACK;
+  border-style: outset;
+  }
+   
+.tb {
+  border-width: thin;
+  border-color: BLACK;
+  border-style: inset;
+  }
+  
+#tabla thead{
+  background: #0978AD;
+  color: #FFFF66;
+  }
+
+.tbot{
+  border-width:thin;
+  border-style:none;
+  }
+  
+#nuevov{
+  margin-left: 50px;
+  }

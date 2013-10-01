@@ -1,0 +1,30 @@
+/* CSS Document */
+body {
+  background: #000033;
+  font-family: "Times New Roman", Times, serif;
+  }
+
+#general {
+  background: #0099FF;
+  border-top:4px solid #0000CC;
+  border-bottom:4px solid #0000CC;
+  border-right:4px solid #0000CC;
+  border-left:4px solid #0000CC;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 20px;
+  width: 700px;
+  height: 520px;
+  font-size: 100%;
+  color: BLACK;
+  }
+  
+#index {
+  margin-left: 40px;
+  margin-top: 200px;
+  }
+  
+.textbox {
+  float:right;
+  margin-right: 100;
+  }
