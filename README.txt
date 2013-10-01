@@ -1,0 +1,1 @@
+The main website is "index.php"
